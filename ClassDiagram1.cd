@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MIS.GUI.LoginForm">
+    <Position X="0.5" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACAAABAAAASAAABCAAAYAAAAEmAAAAAAAAA=</HashCode>
+      <FileName>GUI\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIS.Model.Patient">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiCAAAACAAAAgEAAQAQABAAAAAAAAAAgAAAAQJA=</HashCode>
+      <FileName>Model\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIS.Model.Inspection">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAAAAAAAABAACABBAAAAQAAQAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Model\Inspection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Receptionist.Service.Helper">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Receptionist.GUIDoctor.CurrentInspectionForm">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>/wAAAAAAACAAABAAAACAAAACAAAIAAAABEAQAAAACDA=</HashCode>
+      <FileName>GUIDoctor\CurrentInspectionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIS.GUIDoctor.DoctorMainMenuForm">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAABAAABCAAAACAAgYIAAABGAgAAAAAAI=</HashCode>
+      <FileName>GUIDoctor\DoctorMainMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIS.GUIDoctor.HistoryForm">
+    <Position X="10" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAAAAAACAAABAAAADAAAACABgIIAAABGAAARCAADI=</HashCode>
+      <FileName>GUIDoctor\HistoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Receptionist.GUIDoctor.PreviousInspectionForm">
+    <Position X="12.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/wAAAAAAACAAABAAAACAAAACAAAIAAAAAEAQAAAAADA=</HashCode>
+      <FileName>GUIDoctor\PreviousInspectionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIS.GUI.AddPatientForm">
+    <Position X="15" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>8CAAAAAAASAAABCAECCAAABCIAAIAAAAFEAAAAAAAIA=</HashCode>
+      <FileName>GUIReceptionist\AddPatientForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIS.GUI.ReceptionistMainMenuForm">
+    <Position X="17" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>8yAAAAAAACAAABCAEACAAABCIEg4IAAAFHAIAAAAAII=</HashCode>
+      <FileName>GUIReceptionist\ReceptionistMainMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
