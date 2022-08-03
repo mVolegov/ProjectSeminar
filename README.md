@@ -1,4 +1,6 @@
 # ProjectSeminar
-Project Seminar HSE
+**Project Seminar HSE** 
 
-For educational purposes
+Coursework demo
+
+*For educational purposes*
